@@ -24,4 +24,15 @@ let myAge
 
 
 let a = Symbol();
-console.log(typeof(a));
+// console.log(typeof(a));
+
+// Template litrals 
+let myName = "Roopam"
+// console.log(`I am Roopam Rahangdale ${myName}`);
+// Object
+
+let myObject = {
+    myName:"Roopam",
+    componyName: "manshvi Technology"
+};
+console.log(typeof(myObject));
